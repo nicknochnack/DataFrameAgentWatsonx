@@ -7,7 +7,7 @@ Learn how to analyse your data using pandas an Llama 3.1 70b Instruct.
 # Startup 🚀
 1. Clone this repo `git clone https://github.com/nicknochnack/DataFrameAgentWatsonx`
 2. Go into the directory `cd DataFrameAgentWatsonx`
-3. Create a python environmment `conda create -n pdagent python=3.11`
+3. Create a python environmment `conda create -n pdagent python=3.11` and activate it `conda activate pdagent`
 4. Install dependencies `pip install -r requirements.txt`
 5. Update your key and project id in the .env_sample file and rename it to .env
 5. Run the code `python flow.py`
